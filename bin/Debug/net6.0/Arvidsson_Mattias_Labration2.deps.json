@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arvidsson_Mattias_Labration2/1.0.0": {
+        "runtime": {
+          "Arvidsson_Mattias_Labration2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arvidsson_Mattias_Labration2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
